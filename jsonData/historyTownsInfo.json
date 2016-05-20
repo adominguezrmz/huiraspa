@@ -1,0 +1,26 @@
+﻿[{
+	"name": "Los Cerritos",
+	"img": "MEDIATECA/fotografias/LOCALIDADES/LosCerritos/PaisajeYEscuelaPrimariaDeLaLocalidadDeCerritos_300x182px.JPG",
+	"shorDesc": "Paisaje y escuela primaria de la localidad de Cerritos.",
+	"description": ""
+}, {
+	"name": "Las Trojes",
+	"img": "MEDIATECA/fotografias/localidades/LasTrojes/PanorAmica_211x300px.JPG",
+	"shorDesc": "Panorámica de Las Trojes",
+	"description": ""
+}, {
+	"name": "El Carmen",
+	"img": "MEDIATECA/fotografias/Poblaciones/ElCarmen/PlazaEnElCarmenHuiramba_300x225px.JPG",
+	"shorDesc": "Parte de la plaza del la comunidad de El Carmen",
+	"description": ""
+}, {
+	"name": "Tupátaro",
+	"img": "MEDIATECA/fotografias/Poblaciones/Tupataro/BuscandoTuPresencia_300x201px.JPG",
+	"shorDesc": "Parte de la plaza de Tupátaro. Al fondo aparece la iglesia de este poblado.",
+	"description": ""
+}, {
+	"name": "Huiramba ",
+	"img": "Imagenes/Fotografias/PerfilEsteTorres-HUIRAMBA_A_294x400px.JPG",
+	"shorDesc": "",
+	"description": "La presencia de varios manantiales es relevante porque además de ser fuentes de agua potable para las subsistencia de la población, pudieron ser un fuerte motivo para los primeros asentamientos humanos en este lugar."
+}]

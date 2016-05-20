@@ -1,0 +1,77 @@
+﻿{
+	"boxes": 
+	[
+		{
+			"sections": [{
+				"name": "Descripción General",
+				"imgs": ["MEDIATECA/fotografias/LOCALIDADES/Huiramba/AquiHuiramba_300x225px.JPG"],
+				"paragraphType": "complex",
+				"paragraphs": [
+						{ 
+							"type" : "html",
+							"content":"\"<b class=\"first-letter\">Huiramba</b>\" es un nombre que se da principalmente a dos entidades distintas: a un municipio y a una localidad."
+						},
+						{ 
+							"type" : "html",
+							"content":"<span class=\"first-letter\">El</span> <strong>Municipio de Huiramba</strong> es un territorio donde hay varias localidades, una de ellas es la localidad que también es nombrada con la palabra \"Huiramba\". Un municipio es parte del ordenamiento político en nuestro planeta; a los habitantes de un municipio se les reconoce el derecho a conformar su propio gobierno común y público, para así ejercer cierta autonomía respecto de cualquier otro gobierno o entidad política. Los derechos de un municipio tienen límites predefinidos, muchos de estos límites están basados en la subordinación en determinados ámbitos respecto de otros gobiernos, entidades o estructuras que rigen también en un municipio pero que  tienen otro tipo de alcances, como sucede con el gobierno estatal, el gobierno federal o el derecho internacional."
+						},
+						{ 
+							"type" : "plain",
+							"content": "Este municipio es uno de los 113 municipios que conforman al Estado de Michoacán de Ocampo. Y es uno de los 2,438 municipios que integran a los 31 Estados federados de la república conocida como México."
+						},
+						{ 
+							"type" : "plain",
+							"content":"Las atribuciones del Municipio de Huiramba están determinadas fundamentalmente por la Constitución Política de los Estados Unidos Mexicanos y por la Ley Orgánica Municipal del Estado de Michoacán de Ocampo."
+						},
+						{ 
+							"type" : "plain",
+							"content":"Esta organización fue establecida por voluntad humana. Y estas divisiones son justificables como un modo de facilitar la administración política. Sin embargo, la existencia, voluntad y desarrollo de los humanos no se puede desvincular de lo que consideramos medio físico: el suelo, el cielo, los cuerpos de agua, el relieve, la flora, la fauna, los fenómenos ambientales y las interrelaciones entre todos estos aspectos."
+						},
+						{ 
+							"type" : "plain",
+							"content":"El relieve del territorio correspondiente al Municipio de Huiramba es heterogéneo; en él hay tanto llanuras y declives suaves y también marcados. La presencia de agua es en abundancia suficiente para ser tomada por la población humana sin grandes complicaciones. La mayoría de los ecosistemas del territorio están modificados por prácticas agropecuarias y constructivas. Y el clima presenta evidentes cambios estacionales, aunque sin ser extremos. Más información de estos aspectos en la sección: MEDIO FÍSICO."
+						},
+						{ 
+							"type" : "plain",
+							"content":"La localidad de Huiramba tiene la designación de cabecera municipal. Es una localidad cuyas raíces históricas parecen estar al menos hasta la transición entre la época prehispánica y la época colonial en Michoacán. Es una localidad muy pequeña comparada con muchas otras localidades del país mexicano. A principios del siglo XXI la cultura de este lugar sigue vinculada con las que tradicionalmente han sido desde siglos atrás las más relevantes fuentes culturales de la región centro-norte de Michoacán: la zona purépecha y la ciudad de Morelia. Aunque ha cobrado influencia cultural la emigración de habitantes, en especial la que se da hacia Norteamérica."
+						},
+						{ 
+							"type" : "plain",
+							"content":"El medio físico, los hábitos, las costumbres, las tradiciones, la consciencia histórica, la cultura y la voluntad humana generan estructuras en las cuales se desenvuelve y contienen los individuos y las comunidades. Entre unas y otras de tales estructuras se relacionan e influyen mutuamente. En un municipio se conjugan diversamente esas estructuras de modo que se genera una noción de identidad en los habitantes y los relacionados con tal municipio."
+						},
+						{ 
+							"type" : "html",
+							"content":"La <strong>palabra \"Huiramba\"</strong> parece tener origen en la lengua purépecha. Oralmente es muy difundido entre los pobladores de la localidad designada con este nombre la atribución a \"Huiramba\" del significado literal de:"
+						},
+						{ 
+							"type" : "html",
+							"content":"<h2 class=\"intro-text text-center\"><strong>\"lugar donde hay una piedra laja grande\"</strong></h2>"
+						},
+						{ 
+							"type" : "html",
+							"content":"<strong>\"lugar donde hay una piedra laja grande\"</strong></h2>También es difundido que la palabra \"Huiramba\" es de origen chichimeca, esta afirmación puede no ser contradictoria de un origen purépecha ya que \"chichimeca\" es un nombre utilizado para referirse a las poblaciones de lengua purépecha que no estaban bajo el dominio directo del imperio cuyo centro político era el lago de Pátzcuaro."
+						},
+						{ 
+							"type" : "plain",
+							"content":"Definir es difícil, aún en las cosas que parecen evidentes, pero el hombre tiene muchas formas de dar a entender lo que experimenta; \"Huiramba\" es una palabra que salva de la confusión, de la palabra \"Huiramba\" se puede ayudar uno para hallar la casa, las personas queridas, los recuerdos."
+						},
+						{ 
+							"type" : "plain",
+							"content":"El Municipio de Huiramba en principio no existiría si en su territorio no existiera población humana porque lo más valioso de ser un municipio son los derechos políticos que se les da al conjunto de habitantes. Es lo más valioso porque pueden generar más beneficios que cualquier otra, como el dinero. Y de hecho la delimitación del Municipio de Huiramba fue promovida por un grupo de habitantes del propio territorio, un grupo que ejerció su capacidad verdaderamente política y lo que consiguieron ha influenciado la existencia de los posteriores originarios y habitantes del Municipio de Huiramba, aunque no estén conscientes de ello. Las personas que habitan y se relacionan directamente con Huiramba, son beneficiarios y responsable de lo que es el Municipio de Huiramba."
+						}
+					]
+			}]
+		},
+		{
+			"sections": [{
+				"name": "Datos demográficos",
+				"imgs": null,
+				"paragraphType": "complex",
+				"paragraphs": [{ 
+							"type" : "html",
+							"content":"<table width='100%'><tbody><tr><td>&nbsp;</td><td class='font-weight-bold td-header'>Población Total</td><td class='font-weight-bold td-header'>Población Femenina</td><td class='font-weight-bold td-header'>Población Masculina</td><td class='font-weight-bold td-header'>Viviendas Habitadas</td><td class='font-weight-bold td-header'>Grado Promedio de Escolaridad</td><td class='font-weight-bold td-header'>Población de 15 años y más Analfabeta</td></tr><tr><td class='font-weight-bold td-header'>TOTALES MUNICIPALES</td><td class='font-weight-bold '>7925</td><td class='font-weight-bold '>4042</td><td class='font-weight-bold '>3883</td><td class='font-weight-bold '>1801</td><td class='font-weight-bold '>6.59</td><td class='font-weight-bold '>544</td></tr><tr><td class='font-weight-bold '>Nombre de Localidad</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>El Refugio</td><td>23</td><td>11</td><td>12</td><td>4</td><td>4.90</td><td>3</td></tr><tr><td>Joya Chica</td><td>34</td><td>18</td><td>16</td><td>7</td><td>5.40</td><td>4</td></tr><tr><td>Los Cerritos</td><td>56</td><td>30</td><td>26</td><td>14</td><td>5.09</td><td>8</td></tr><tr><td>Las Trojes</td><td>80</td><td>41</td><td>39</td><td>19</td><td>5.24</td><td>5</td></tr><tr><td>La Providencia</td><td>89</td><td>49</td><td>40</td><td>22</td><td>6.05</td><td>7</td></tr><tr><td>La Nopalerita</td><td>99</td><td>50</td><td>49</td><td>21</td><td>5.60</td><td>5</td></tr><tr><td>La Presa</td><td>120</td><td>60</td><td>60</td><td>29</td><td>5.84</td><td>6</td></tr><tr><td>La Reunión</td><td>181</td><td>96</td><td>85</td><td>38</td><td>6.39</td><td>5</td></tr><tr><td>Quirínguaro</td><td>244</td><td>125</td><td>119</td><td>51</td><td>4.93</td><td>29</td></tr><tr><td>El Sauz</td><td>292</td><td>155</td><td>137</td><td>66</td><td>6.67</td><td>20</td></tr><tr><td>El Carmen</td><td>348</td><td>175</td><td>173</td><td>83</td><td>7.22</td><td>14</td></tr><tr><td>Las Tablas</td><td>582</td><td>283</td><td>299</td><td>138</td><td>5.65</td><td>43</td></tr><tr><td>Tupátaro</td><td>681</td><td>360</td><td>321</td><td>148</td><td>5.63</td><td>86</td></tr><tr><td>El Sobrado</td><td>902</td><td>459</td><td>443</td><td>198</td><td>5.37</td><td>84</td></tr><tr><td>El Pedregal</td><td>1172</td><td>586</td><td>586</td><td>267</td><td>6.05</td><td>61</td></tr><tr><td class='font-weight-bold'>Huiramba*</td><td>3007</td><td>1539</td><td>1468</td><td>693</td><td>7.66</td><td>163</td></tr><tr><td>El Llanito**</td><td>15</td><td>5</td><td>10</td><td>3</td><td>6.83</td><td>1</td></tr></tbody></table><h6>*Cabecera municipal</h6><h6>**Los habitantes consideran al 'El Llanito' como parte de la cabecera municipal.</h6>"
+						}]
+				}]
+		}
+	]
+}

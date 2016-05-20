@@ -1,0 +1,29 @@
+<div class="container">
+	
+	<div ng-include="siteInfo.sharedBoxesUrl"></div>
+	
+	<div class="row">
+		<div class="box">
+			<div class="col-lg-12">
+				<hr/>
+				<h2 class="intro-text text-center">
+					<strong>Localidades</strong>
+				</h2>
+				<hr/>
+				
+				<div class="col-sm-4 text-center" ng-repeat="town in model.towns">
+                    <img ng-if="!!town.img" class="img-responsive img-border" ng-src="{{siteInfo.imgPath}}{{town.img}}" alt="{{town.shortDesc}}">
+                    <h3>{{town.name}}
+                        <small ng-if="!!town.shortDesc" ng-bind="town.shortDesc"></small>
+                    </h3>
+					<p ng-if="!!town.description" class="first-letter" ng-bind="town.description"></p>
+                </div>
+				
+				
+				<div class="clearfix"></div>
+				
+			</div>
+		</div>
+	</div>
+
+</div>

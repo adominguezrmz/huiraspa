@@ -1,0 +1,77 @@
+﻿{
+	"boxes": 
+	[
+		{
+			"sections": [{
+				"name": "Medio Físico",
+				"imgs": ["Imagenes/Decoracion/MirasolMorado-Huiramba_98x100px.jpg"],
+				"paragraphs": ["En esta sección se pone a disposición información de aspectos cercanamente relacionados con características físicas del Municipio de Huiramba, características relacionadas con la materia y su percepción. La información de este apartado en definitiva no sólo es física porque ésto en principio es una referencia humana, una referencia a través del intelecto. Además la atención hacia aspectos físicos la mayoría de las veces está rodeada por la relaciones e interacción que llevan a cabo los humanos con esos aspectos."]
+			}]
+		},
+		
+		{
+			"sections": [{
+				"name": "Ubicación",
+				"imgs": [
+					"Imagenes/Mapas/MapaMichoac%C3%A1n_Ubicaci%C3%B3n_Huiramba_T%C3%ADtulo.jpg",
+					"Imagenes/Mapas/Mapa_Municipios_Huiramba&Colindantes_400x400px.jpg",
+					"Imagenes/Mapas/MapaPaEncontrar-Huiramba.gif"
+				],
+				"paragraphType": "complex",
+				"paragraphs": [
+						{ 
+							"type" : "plain",
+							"content":"Se localiza al centro del Estado de Michoacán de Ocampo. Limita al norte con los Municipios de Tzintzuntzan y Lagunillas, al este con Morelia y Acuitzio, al sur y al oeste con Pátzcuaro."
+						},
+						{ 
+							"type" : "html",
+							"trusted": true,
+							"content":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60166.09404809113!2d-101.4605543!3d19.525254999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842d9919c0addd59%3A0x93d3ded3f0beb048!2sHuiramba%2C+Mich.%2C+M%C3%A9xico!5e0!3m2!1ses-419!2s!4v1443547129387\" width=\"100%\" height=\"400\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+						}
+					]
+			}]
+		},
+	
+		{
+		"sections": [{
+				"name": "Territorio",
+				"imgs": null,
+				"paragraphs": ["Su superficie es de 79.34 Km2 y representa un 0.13 por ciento del total del Estado."]
+			}, {
+				"name": "Suelo",
+				"imgs": null,
+				"paragraphs": ["Los suelos del Municipio datan de los períodos cenozoico, terciario y paleoceno; corresponden principalmente a los del tipo chernozem y podzólico. Su uso es primordialmente agrícola y ganadero y en menor proporción forestal."]
+			}, {
+				"name": "Relieve",
+				"imgs": null,
+				"paragraphs": ["Su relieve lo constituye el sistema volcánico transversal y los cerros de San Isidro y la Yerba."]
+			}, {
+				"name": "Hidrografía",
+				"imgs": ["MEDIATECA/fotografias/Paisaje/ElArroyoSuaveCeleste_225x300px.jpg"],
+				"paragraphs": [
+					"Existe un arroyo que nace de un manantial cercano a la población de las Tablas y que tiene un trayecto que pasa después cerca de El Pedregal, El Sobrado, Las Trojes, El Carmen y La Cabecera Municipal. Este arroyo no tiene un nombre.",
+					"En el Pueblo de Huiramba hay varios manantiales de agua fría:",
+					"El Curcho. Se encuentra frente al Auditorio Municipal. Están instalados unos lavaderos a su alrededor que siguen siendo utilizados. Parte de su curso pasa por un jardín con quioscos administrado por el Ayuntamiento. Desde el año 2008 una planta purificadora de agua  aprovecha parte del flujo del Curcho.",
+					"El Chorro. A veces también es referido simplemente como \"El Ojo de Agua\". Se encuentra a dos cuadras al oeste de Conjunto Parroquial. Están construidos al rededor del nacimiento lavaderos y pilas, una de éstas pilas sirve de bebedero para ganado.",
+					"El Abasto. Se encuentra aproximadamente a dos cuadras al este de la Plaza principal. Hay un pequeño jardín alrededor del nacimiento."
+				]
+			}, {
+				"name": "Clima",
+				"imgs": null,
+				"paragraphs": ["Templado, con lluvias en verano. Tiene una precipitación pluvial anual de 995.4 milímetros y temperaturas que oscilan de 6.3 a 22.9 º centígrados."]
+			}, {
+				"name": "Flora",
+				"imgs": ["MEDIATECA/fotografias/Flora/PinosEnLaRosaDeSanJuan_225x300px.jpg"],
+				"paragraphs": ["Pino, encino, cedro, aile, oyamel y junípero."]
+			}, {
+				"name": "Fauna",
+				"imgs": null,
+				"paragraphs": ["Liebre, armadillo, coyote, zorrillo, comadreja, cercena, aguililla y pato."]
+			}, {
+				"name": "Ecosistema",
+				"imgs": null,
+				"paragraphs": ["Gran parte del territorio del Municipio ha sido intervenido por los habitantes, derivado de las actividades productivas. Parcelas, terrenos para que el ganado paste y algunas huertas se encuentran diseminados casi por todo el Municipio, determinando así dinámicas físico, químicas y bióticas de gran parte del entorno. El resto está conformado por bosque mixto y bosque de coníferas, que principalmente se encuentran en los lugares más altos del Municipios y también dónde el relieve no permite la facilidad para llevar a cabo actividades humanas."]
+			}]
+		}
+	]
+}

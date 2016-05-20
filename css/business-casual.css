@@ -1,0 +1,298 @@
+/*!
+ * Start Bootstrap - Business Casual Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* background: url('../img/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.6;
+    color: #000;
+}
+
+hr {
+    max-width: 400px;
+    border-color: #999999;
+}
+
+.brand,
+.address-bar {
+    display: none;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.navbar-nav {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar-toggle {
+    background-color: #FFF;
+}
+
+.img-full {
+    min-width: 100%;
+}
+
+.brand-before,
+.brand-name {
+    text-transform: capitalize;
+}
+
+.brand-before {
+    margin: 15px 0;
+}
+
+.brand-name {
+    margin: 0;
+    font-size: 4em;
+}
+
+.first-letter::first-letter { 
+    color: #CC0000;
+	font-weight:bold;
+}
+
+.tagline-divider {
+    margin: 15px auto 3px;
+    max-width: 250px;
+    border-color: #999999;
+}
+
+.box {
+    margin-bottom: 20px;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+	
+-webkit-box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.1);
+box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.1);
+
+}
+
+.intro-text {
+    text-transform: uppercase;
+    font-size: 1.25em;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.intro-text strong::before {
+  content: url("http://www.huiramba.org/Imagenes/Decoracion/Detalle_barrocoHerreria_2Curvas_I_20x43px.jpg");
+}
+
+.intro-text strong::after {
+  content: url("http://www.huiramba.org/Imagenes/Decoracion/Detalle_barrocoHerreria_2Curvas_20x43px.jpg");
+}
+
+
+.img-border {
+    float: none;
+    margin: 0 auto 0;
+    border: #999999 solid 1px;
+}
+
+.img-left {
+    float: none;
+    margin: 0 auto 0;
+}
+
+footer .row {
+	background: rgba(204, 0, 0, 0.9);
+}
+
+footer .row:last-child {
+	margin-top: 10px;
+}
+
+footer p {
+    margin: 0;
+	color: #FFF;
+}
+
+footer .row:last-child p{
+    padding: 25px 0;
+}
+
+@media screen and (min-width:768px) {
+    .brand {
+        display: inherit;
+        margin: 0;
+        padding: 30px 0 10px;
+        text-align: center;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 5em;
+        font-weight: 700;
+        line-height: normal;
+        color: #fff;
+    }
+
+    .top-divider {
+        margin-top: 0;
+    }
+
+    .img-left {
+        float: left;
+        margin-right: 25px;
+    }
+
+    .address-bar {
+        display: inherit;
+        margin: 0;
+        padding: 0 0 40px;
+        text-align: center;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        text-transform: uppercase;
+        font-size: 1.25em;
+        font-weight: 400;
+        letter-spacing: 3px;
+        color: #fff;
+    }
+
+    .navbar {
+        border-radius: 0;
+    }
+
+    .navbar-header {
+        display: none;
+    }
+
+    .navbar {
+        min-height: 0;
+    }
+
+    .navbar-default {
+        border: none;
+        /* background: #fff;
+        background: rgba(255,255,255,0.9); */
+		background: rgba(204, 0, 0, 0.9);
+    }
+
+    .nav>li>a {
+        padding: 35px;
+    }
+
+    .navbar-nav>li>a {
+        line-height: normal;
+    }
+
+    .navbar-nav {
+        display: table;
+        float: none;
+        margin: 0 auto;
+        table-layout: fixed;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .box:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
+
+.navbar-default {
+    background: rgba(204, 0, 0, 0.9);
+    border-color: #CC0000;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFF;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  margin: 0 auto;
+}
+
+td.font-weight-bold {
+	font-weight:bold;
+}
+
+.td-header {
+    background-color: #E9E9E9;
+    color: #808080;
+	border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
+}
+
+td {
+    border: 1px solid #E9E9E9;
+	text-align: center;
+}
+
+.shield-section {
+	color:#FFF;
+	font-weight:bold;
+	padding: 5% 0 5% 0;
+}
+
+.shield-green {
+	background-color: #357155;
+}
+.shield-blue {
+	background-color: #0377DC;
+}
+.shield-purple {
+	background-color: #586188;
+}
+.shield-black {
+	background-color: #232733;
+}
+.shield-orange {
+	background-color: #F69544;
+}
+.shield-yellow {
+	background-color: #FBFF20;
+}
+.shield-red {
+	background-color: #F32C41;
+}
+.shield-none {
+	font-weight: bold;
+	padding: 5% 0 5% 0;
+}
+
+.shield-text-black {
+	color: #232733;
+}
+
+
+
+
+
+
+

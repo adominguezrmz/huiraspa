@@ -1,0 +1,82 @@
+﻿{
+	"boxes": [{
+			"sections": [{
+				"name": "Cultura",
+				"imgs": null,
+				"paragraphs": ["La palabra \"cultura\" suele utilizarse de varios modos. Un modo amplio de utilizarla es para referir a lo que intencionalmente y con continuidad da forma  a un idividuo y/o a un conjunto de seres humanos. En este sitio web se intenta utilizar tal noción de cultura y en especial en esta sección se intenta registrar lo que corresponde a tal noción en el municipio de Huiramba."]
+			}]
+		}, 
+		{
+			"sections": [{
+				"name": "Historia",
+				"imgs": null,
+				"paragraphs": [
+					"Somos presente y pasado. Tal vez principalmente pasado; lo presente no dura ni un segundo. Sin presionarnos por lo exacto podemos ver que lo pasado, lo que hemos sido, nos sigue rodeando o nosotros intentamos aferrarnos a él. Dolencias, gozos, información, espacios sutilmente surgen del pasado para sostener nuestro mundo, nuestra mente, que a veces se adormece o transparenta en los hilos del tejido que nos une con los humanos que fueron y también con los que serán. La historia es un registro de nuestras posibilidades.",
+					"Es el hombre quien mantiene la historia. También por él se hace. Huiramba está definido por convención humana. Ha habido una definición interna, que tiene su máxima expresión en la obtención del reconocimiento como Municipio. Pero esta situación está relacionada y no sería posible sin un desarrollo anterior. ¿Porque Huiramba, incluye tal extensión, y tales poblaciones, porqué no más, o por qué no menos?"
+				]
+			}, {
+				"name": "Raíces Prehispánicas",
+				"imgs": [
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/UtensilioCircularConGrecas.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/TorsoFemeninoDeBarro.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/PedazoDeAlfarerIaConPintura.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/UtensilioCircularConCurvasConcEntricas.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/UtensilioCircularSimple.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/CaraPeque%C3%B1aDeBarroConPinturaRoja.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/CaraPeque%C3%B1aDeBarro.jpg",
+					"MEDIATECA/fotografias/VestigiosPrehispanicos/PedazoDeAlfarerIaConRostro.jpg"
+				],
+				"paragraphs": [
+					"Y en general estos vestigios hacen patente la posibilidad de que la cultura puede trascender más allá de la extinción de los integrantes de una comunidad.",
+					"La situación de que los habitantes de este Municipio vivan o realicen actos de origen prehispánico es algo evidente para quien presta atención y además toma en cuenta la existencia de otras culturas; de otras maneras de vivir.",
+					"Reconocer las relaciones hacia lo prehispánico también puede ser algo no tan simple por la predominancia de elementos culturales de otros orígenes como la lengua española y la cosmología católica de origen y evolución principalmente europea. Además de que los elementos culturales prehispánicos que permanecieron (muchos se perdieron, basta con mencionar el idioma original) se han modificado. Un ejemplo de lo prehispánico en la cultura del Municipio es la forma de alimentación; que integra a ella alimentos como el maíz y la calabaza, y la forma de cocinarlos: en tortillas, tamales y corundas por ejemplo.",
+					"Otra evidencia son las características físicas de las personas originarias del Municipio; aunque no hay una gran homogeneidad; la mayoría de los habitantes son morenos en diferentes grados, de cabello y ojos de tonos obscuros en una perspectiva general. ",
+					"Esta evidencia física tiene relación con la historia cultural, pero no de manera esencial sino circunstancial porque se ha probado que no hay diferencias relevantes en potencial humano debido a diferencias físicas o comúnmente llamadas raciales",
+					"Durante la época prehispánica, hacia el año de 1459, los habitantes de este pueblo se sometieron voluntariamente al señorío tarasco. Otras fuentes mencionan que la conquista fue hacia el año de 1450 y fue efectuada por Irepan, Tangaxoán e Hiquíngare.",
+					"En el siglo XVI, después de haber sido sometida la provincia de Michoacán, el pueblo de Huiramba fue evangelizado por la orden religiosa de los agustinos, quienes organizaron a la población en una doctrina y edificaron su templo."
+				]
+			}]
+		},
+		{
+			"sections": [{
+				"name": "Educación",
+				"imgs": null,
+				"paragraphs": [
+					"La educación incluye diferentes ámbitos, fuentes y expresiones, a veces muy diferentes entre sí, o hasta contradictorias, desde sus fundamentos y objetivos (si los hay) hasta las practicas derivadas de la aprensión y desarrollo de otras practicas e ideas, que a veces no suelen relacionarse directamente con la educación.",
+					"Una descripción general del Municipio acerca de la existencia de centros educativos indica la presencia de éstos a diferentes niveles convencionales; Básico: centros de educación preescolar, escuelas primarias. Nivel Medio: Escuelas Secundarias (Telesecundarias y una Secundaria Técnica). Nivel Medio Superior: un Colegio de Bachilleres. Además el Instituto Nacional de Educación para los Adultos lleva a cabo cursos en el Municipio.",
+					"Nivel Superior. Recientemente se comenzó a dar clases para obtener algunas de las licenciaturas impartidas por el Instituto Michoacano de Ciencias de la Educación (IMCED) en la Cabecera Municipal."
+				]
+			}]
+		},
+		{
+			"sections": [{
+				"name": "Comunicación",
+				"imgs": null,
+				"paragraphs": [
+					"Está situado a 35 Km. de la capital del Estado, por la autopista Morelia-Pátzcuaro. Tiene comunicación a las comunidades a través de caminos de terracería y brechas. Cuenta con servicio de teléfono, cobertura de telefonía celular, correo, servicio de taxi y transporte foráneo.",
+					"Tiene cobertura de los principales diarios de circulación estatal, estaciones AM-FM y canales de televisión de antena aérea."
+				]
+			}]
+		},
+		{
+			"sections": [{
+				"name": "Religión",
+				"imgs": null,
+				"paragraphs": [
+					"Existe en Huiramba una Parroquia Católica con el nombre de Parroquia del Niño Jesús, cuya jurisdicción cubre casi todas las poblaciones del Municipio (Tupátaro es parte de la Parroquia de la Natividad de María, de Cuanajo, Municipio de Pátzcuaro)."
+				]
+			}]
+		},
+		{
+			"sections": [{
+				"name": "Política",
+				"imgs": null,
+				"paragraphType": "complex",
+				"paragraphs": [{ 
+								"type" : "html",
+								"content":"<div class='col-sm-12 text-center'><div class='row'><div class='col-sm-4 shield-none'>El presente ESCUDO es dividido en cuatro partes, ya que de una manera especial apareció el número cuatro en los grandes eventos y acontecimientos de las regiones de Michoacán. Todas las partes que conforman el escudo tienen su significado:</div><div class='col-sm-4 shield-section shield-green'>EL PINO: representa el fundador de Huiramba, quien se llamó Puhcurtzuaran, que significa el pino más alto y robusto, que junto con la hija de un sacerdote llamada Tecaxin, los cuales tuvieron un hijo.</div><div class='col-sm-4 shield-section shield-blue'>EL COLOR AZUL QUE RODEA EL ESCUDO: Representa que los reinos de Huiramba, estaban por inmensas plantas y que actualmente cuenta con manantiales.</div></div><div class='row'><div class='col-sm-4 shield-section shield-purple'  style='padding: 8% 0 8% 0;'>EL REY PUREPECHA: Representa al hijo de Puhcurtzuaran y Texaxin al cual llamaron Huiramba, la flauta que está tocando significa su procedencia, ya que su padre tocaba de una forma armoniosa la flauta, y mismo que durante su reinado gobernó con armonía, el presente Rey, tuvo un idilio con Tzintzingare que pertenecía al reino de Uruapan, pero éste se compromete con una princesa; y la antes mencionada muere al ahogarse en el río Cupatitzio, al saber este acontecimiento el Rey Huiramba, el también se arroja al río.</div><div class='col-sm-4'><img class='img-responsive img-border'alt='Escudo representativo del Municipio de Huiramba, Michoacán.' src='http://www.huiramba.org/Imagenes/Logotipos/escudo-HUIRAMBA_400x486px.jpg'></td></div><div class='col-sm-4 shield-section shield-black' style='padding: 8% 0 8% 0;'>LA PIEDRA LAJA Y PINOS SOBRE ÉSTA: Representa el significado de Huiramba y los espesos bosques que cubrían el territorio y que actualmente todavía se encuentran en el municipio, con la misma proporción.</div></div><div class='row'><div class='col-sm-4 shield-section shield-orange'>LA IGLESIA: Representa la época colonial, en la evangelización con los padres Agustinos, en el siglo XVI con esta misma se le da un doble significado, misma que representa el virreinato.</div><div class='col-sm-4 shield-section shield-yellow shield-text-black'>LAS CUATRO FLECHAS Y ARCOS: Tienen un doble significado, uno de ellos es el regalo que recibió el gran Sr. De Quirínguaro, por el gran Sr. De Pátzcuaro, el cual fueron cuatro flechas de colores que se manejan en todo el escudo eran colores sagrados para los indígenas de estas vastas regiones.</div><div class='col-sm-4 shield-section shield-red'>LAS MATAS DE MAÍZ: Representa la agricultura que es la actividad más importante actual en este municipio y que fue desde sus orígenes.</div></div></div>"
+							}]
+			}]
+		}
+	]
+}

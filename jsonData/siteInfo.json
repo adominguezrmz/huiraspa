@@ -1,0 +1,28 @@
+﻿{
+	"nameShort": "Huiramba",
+	"nameLarge": "Huiramba, Michoacán, México",
+	"url": "www.huiramba.org",
+	"email": "huiramba@gmail.com",
+	"sharedBoxesUrl": "templates/shared/boxes.html",
+	"imgPath": "http://www.huiramba.org/",
+	"welcomeMsg": "Bienvenidos a",
+	"navLinks": [{
+		"url": "home",
+		"text": "Inicio"
+	}, {
+		"url": "enviroment",
+		"text": "Medio Fisico"
+	}, {
+		"url": "culture",
+		"text": "Cultura"
+	}, {
+		"url": "",
+		"text": "Actividades"
+	}, {
+		"url": "contact",
+		"text": "Medios"
+	}, {
+		"url": "about",
+		"text": "Acerca"
+	}]
+}
